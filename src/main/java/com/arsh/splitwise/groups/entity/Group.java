@@ -6,7 +6,7 @@ import jakarta.persistence.*;
 import lombok.*;
 
 @Entity
-@Table(name = "groups")
+@Table(name = "expense_groups")
 @Getter
 @Setter
 @NoArgsConstructor
